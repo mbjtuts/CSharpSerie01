@@ -1,0 +1,16 @@
+A:\CShrapTutorial\Tutorial4\bin\Debug\net5.0\Tutorial4.exe
+A:\CShrapTutorial\Tutorial4\bin\Debug\net5.0\Tutorial4.deps.json
+A:\CShrapTutorial\Tutorial4\bin\Debug\net5.0\Tutorial4.runtimeconfig.json
+A:\CShrapTutorial\Tutorial4\bin\Debug\net5.0\Tutorial4.runtimeconfig.dev.json
+A:\CShrapTutorial\Tutorial4\bin\Debug\net5.0\Tutorial4.dll
+A:\CShrapTutorial\Tutorial4\bin\Debug\net5.0\ref\Tutorial4.dll
+A:\CShrapTutorial\Tutorial4\bin\Debug\net5.0\Tutorial4.pdb
+A:\CShrapTutorial\Tutorial4\obj\Debug\net5.0\Tutorial4.csproj.AssemblyReference.cache
+A:\CShrapTutorial\Tutorial4\obj\Debug\net5.0\Tutorial4.GeneratedMSBuildEditorConfig.editorconfig
+A:\CShrapTutorial\Tutorial4\obj\Debug\net5.0\Tutorial4.AssemblyInfoInputs.cache
+A:\CShrapTutorial\Tutorial4\obj\Debug\net5.0\Tutorial4.AssemblyInfo.cs
+A:\CShrapTutorial\Tutorial4\obj\Debug\net5.0\Tutorial4.csproj.CoreCompileInputs.cache
+A:\CShrapTutorial\Tutorial4\obj\Debug\net5.0\Tutorial4.dll
+A:\CShrapTutorial\Tutorial4\obj\Debug\net5.0\ref\Tutorial4.dll
+A:\CShrapTutorial\Tutorial4\obj\Debug\net5.0\Tutorial4.pdb
+A:\CShrapTutorial\Tutorial4\obj\Debug\net5.0\Tutorial4.genruntimeconfig.cache
